@@ -328,7 +328,7 @@ properly in the prerequisites step.
 
 ::
 
-   pip install tools/marvin/dist/Marvin-0.1.0.tar.gz
+   sudo pip install tools/marvin/dist/Marvin-0.1.0.tar.gz
 
 Stop jetty (from any previous runs)
 
